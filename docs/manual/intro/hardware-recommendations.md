@@ -8,7 +8,7 @@ sidebar_position: 2
 You can use any hardware that you want and don't have to conform to these products or this list.
 :::
 
-- SSD's flash solid state drives.
+- SSD's solid state drives.
   - My best recommendation for consumer level SSDs will be samsung.
     - Use m.2 SSDs for the boot drive(s).
 
