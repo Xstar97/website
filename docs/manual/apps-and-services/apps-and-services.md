@@ -55,8 +55,4 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/transmission.png" width="64" height="56" />|**transmission**|API Support for your favorite torrent trackers.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/tdarr.png" width="64" height="56" />|**tdarr**|Audio/Video library transcoding automation|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex-auto-languages.png" width="64" height="56" />|**plex-auto-languages**|Automated language selection for Plex TV Shows.|
-<<<<<<< HEAD
 > Currently installed services: **49**
-=======
-> Currently installed services: **49**
->>>>>>> 6a5f772263ff4d649340839416151f9a4200ed19
