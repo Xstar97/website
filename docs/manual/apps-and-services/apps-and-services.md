@@ -26,6 +26,7 @@ I run two baremetal servers:
 
  Installed Services Count: **13**
 ___
+
 **MewTwo Scale Server**: Media and automations Server
 
 |icon|Chart|Description|
