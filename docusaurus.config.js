@@ -49,7 +49,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/xstar97/docusaurus',
+            href: 'https://github.com/xstar97/website',
             label: 'GitHub',
             position: 'right',
           },{
