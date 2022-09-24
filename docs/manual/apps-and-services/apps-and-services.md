@@ -6,7 +6,7 @@ sidebar_position: 1
 
 I run two baremetal servers:
 
-**Mew Scale Server**: networking Server
+**Mew Scale Server**: networking
 
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
@@ -27,7 +27,7 @@ I run two baremetal servers:
  Installed Services Count: **13**
 ___
 
-**MewTwo Scale Server**: Media and automations Server
+**MewTwo Scale Server**: Media and automations
 
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
