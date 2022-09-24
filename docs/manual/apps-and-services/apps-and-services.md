@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Apps and Services That I currently run
 
-I run two scale servers:
- - media server
- - network server
+I run two baremetal servers:
+ - network server -> Mew Server
+ - media server -> MewTwo Server
 
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
