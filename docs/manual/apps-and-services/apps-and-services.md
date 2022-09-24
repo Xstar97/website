@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Apps and Services That I currently run
 
+I run two scale servers and most services are on a single server.
+
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="64" height="56" />|**authelia**|Authelia is a Single Sign-On Multi-Factor portal for web apps|
