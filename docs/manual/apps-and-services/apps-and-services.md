@@ -57,4 +57,4 @@ I run two scale servers:
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" />|**uptime-kuma**|A fancy self-hosted monitoring tool|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" />|**vaultwarden**|Unofficial Bitwarden compatible server written in Rust|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" />|**wg-easy**|The easiest way to run WireGuard VPN + Web-based Admin UI.|
-> Currently installed services: **47**
+> Current installed services: **47**
