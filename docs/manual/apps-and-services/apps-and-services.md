@@ -50,8 +50,7 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/theme-park.png" width="64" height="56" />|**theme-park**|Custom themes for your favorite apps!|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="64" height="56" />|**traefik**|Traefik is a flexible reverse proxy and Ingress Provider.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/transmission.png" width="64" height="56" />|**transmission**|API Support for your favorite torrent trackers.|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/unmanic.png" width="64" height="56" />|**unmanic**|Unmanic is a simple tool for optimising your file library.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="64" height="56" />|**uptime-kuma**|A fancy self-hosted monitoring tool|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="64" height="56" />|**vaultwarden**|Unofficial Bitwarden compatible server written in Rust|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="64" height="56" />|**wg-easy**|The easiest way to run WireGuard VPN + Web-based Admin UI.|
-> Currently installed services: **48**
+> Currently installed services: **47**
