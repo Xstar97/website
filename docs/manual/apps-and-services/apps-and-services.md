@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Apps and Services That I currently run
 
-- I run two scale servers:
+I run two scale servers:
  - media server
  - network server
 
