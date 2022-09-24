@@ -8,6 +8,8 @@ I run two baremetal servers:
 
 **Mew Scale Server** | networking Server
 
+**Mew Scale Server** | networking Server
+
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" />|**authelia**|Authelia is a Single Sign-On Multi-Factor portal for web apps|
