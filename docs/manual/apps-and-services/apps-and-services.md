@@ -22,7 +22,7 @@ I run two baremetal servers:
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/theme-park.png" width="48" height="36" />|**theme-park**|Custom themes for your favorite apps!|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" />|**traefik**|Traefik is a flexible reverse proxy and Ingress Provider.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" />|**wg-easy**|The easiest way to run WireGuard VPN + Web-based Admin UI.|
-| |**MewTwo Scale Server**| Media and automations Server |
+| ![scale](/static/img/scale.png) |**MewTwo Scale Server**| Media and automations Server |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" />|**bazarr**|Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" />|**docusaurus**|Docusaurus makes it easy to maintain Open Source documentation websites.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" />|**drawio**|Drawio is free online diagram software.|
