@@ -10,7 +10,7 @@ I run two baremetal servers:
 
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
-| |**Mew Scale Server**| networking Server |
+| ![scale](/static/img/scale.png) |**Mew Scale Server**| networking Server |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" />|**authelia**|Authelia is a Single Sign-On Multi-Factor portal for web apps|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/ddns-updater.png" width="48" height="36" />|**ddns-updater**|Light container updating DNS A and/or AAAA records periodically for multiple DNS providers|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service**|Allow external services to be used like Apps.|
