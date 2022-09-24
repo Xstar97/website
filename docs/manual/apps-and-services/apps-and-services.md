@@ -12,6 +12,7 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="64" height="56" />|**docusaurus**|Docusaurus makes it easy to maintain Open Source documentation websites.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="64" height="56" />|**drawio**|Drawio is free online diagram software.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="64" height="56" />|**emulatorjs**|Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles.|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="64" height="56" />|**external-service**|Allow external services to be used like Apps.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="64" height="56" />|**flaresolverr**|FlareSolverr is a proxy server to bypass Cloudflare protection|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flood.png" width="64" height="56" />|**flood**|Flood is a monitoring service for various torrent clients|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/grocy.png" width="64" height="56" />|**grocy**|ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home|
@@ -20,7 +21,7 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="64" height="56" />|**jackett**|API Support for your favorite torrent trackers.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png" width="64" height="56" />|**kavita**|Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="64" height="56" />|**lidarr**|Looks and smells like Sonarr but made for music|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="64" height="56" />|**littlelink-noob**|Easy platform to combine all your social links|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="64" height="56" />|**littlelink**|Easy platform to combine all your social links|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/metube.png" width="64" height="56" />|**metube**|Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="64" height="56" />|**mosquitto**|Eclipse Mosquitto - An open source MQTT broker|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/mymediaforalexa.png" width="64" height="56" />|**mymediaforalexa**|This is the multi-platform Docker image for My Media for Alexa - https://www.mymediaalexa.com .|
@@ -41,7 +42,7 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="64" height="56" />|**requestrr**|Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png" width="64" height="56" />|**ring-mqtt**|Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="64" height="56" />|**scrutiny**|Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution.|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png" width="64" height="56" />|**simply-shorten-noob**|A dead simple URL shortener.|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png" width="64" height="56" />|**simply-shorten**|A dead simple URL shortener.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="64" height="56" />|**sonarr**|Smart PVR for newsgroup and bittorrent users|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png" width="64" height="56" />|**strapi**|Strapi is the leading open-source headless CMS. JavaScript, fully customizable and developer-first.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/tautulli.png" width="64" height="56" />|**tautulli**|A Python based monitoring and tracking tool for Plex Media Server|
@@ -53,4 +54,4 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="64" height="56" />|**uptime-kuma**|A fancy self-hosted monitoring tool|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="64" height="56" />|**vaultwarden**|Unofficial Bitwarden compatible server written in Rust|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="64" height="56" />|**wg-easy**|The easiest way to run WireGuard VPN + Web-based Admin UI.|
-> Currently installed services: **47**
+> Currently installed services: **48**
