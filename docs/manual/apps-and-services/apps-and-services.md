@@ -20,7 +20,6 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="64" height="56" />|**jackett**|API Support for your favorite torrent trackers.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png" width="64" height="56" />|**kavita**|Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="64" height="56" />|**lidarr**|Looks and smells like Sonarr but made for music|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="64" height="56" />|**littlelink-ncp**|Easy platform to combine all your social links|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="64" height="56" />|**littlelink-noob**|Easy platform to combine all your social links|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/metube.png" width="64" height="56" />|**metube**|Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="64" height="56" />|**mosquitto**|Eclipse Mosquitto - An open source MQTT broker|
@@ -42,7 +41,6 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="64" height="56" />|**requestrr**|Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png" width="64" height="56" />|**ring-mqtt**|Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="64" height="56" />|**scrutiny**|Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution.|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png" width="64" height="56" />|**simply-shorten-ncp**|A dead simple URL shortener.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png" width="64" height="56" />|**simply-shorten-noob**|A dead simple URL shortener.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="64" height="56" />|**sonarr**|Smart PVR for newsgroup and bittorrent users|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png" width="64" height="56" />|**strapi**|Strapi is the leading open-source headless CMS. JavaScript, fully customizable and developer-first.|
@@ -55,4 +53,4 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="64" height="56" />|**uptime-kuma**|A fancy self-hosted monitoring tool|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="64" height="56" />|**vaultwarden**|Unofficial Bitwarden compatible server written in Rust|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="64" height="56" />|**wg-easy**|The easiest way to run WireGuard VPN + Web-based Admin UI.|
-> Currently installed services: **49**
+> Currently installed services: **47**
