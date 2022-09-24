@@ -5,8 +5,6 @@ sidebar_position: 1
 # Apps and Services That I currently run
 
 I run two baremetal servers:
- - network server -> Mew Server
- - media server -> MewTwo Server
 
 **Mew Scale Server** | networking Server
 
