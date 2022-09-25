@@ -11,6 +11,7 @@ I run two baremetal servers:
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" />|**authelia**|Authelia is a Single Sign-On Multi-Factor portal for web apps|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" />|**cloudflared**|Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/ddns-updater.png" width="48" height="36" />|**ddns-updater**|Light container updating DNS A and/or AAAA records periodically for multiple DNS providers|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service (es-mew)**|Allow external services to be used like Apps.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" />|**littlelink (littlelink-ncp)**|Easy platform to combine all your social links|
@@ -24,7 +25,7 @@ I run two baremetal servers:
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" />|**traefik**|Traefik is a flexible reverse proxy and Ingress Provider.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" />|**wg-easy**|The easiest way to run WireGuard VPN + Web-based Admin UI.|
 
- Installed Services Count: **13**
+ Installed Services Count: **14**
 ___
 
 **MewTwo Scale Server**: Media and automations
@@ -36,6 +37,7 @@ ___
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" />|**drawio**|Drawio is free online diagram software.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" />|**emulatorjs**|Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service (es-mewtwo)**|Allow external services to be used like Apps.|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service (es-editor)**|Allow external services to be used like Apps.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" />|**flaresolverr**|FlareSolverr is a proxy server to bypass Cloudflare protection|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flood.png" width="48" height="36" />|**flood**|Flood is a monitoring service for various torrent clients|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/grocy.png" width="48" height="36" />|**grocy**|ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home|
@@ -70,5 +72,5 @@ ___
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" />|**uptime-kuma**|A fancy self-hosted monitoring tool|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" />|**vaultwarden**|Unofficial Bitwarden compatible server written in Rust|
 
- Installed Services Count: **38**
+ Installed Services Count: **39**
 ___
