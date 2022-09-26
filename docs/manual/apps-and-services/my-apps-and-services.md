@@ -68,7 +68,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex.png" width="48" height="36" /> | **plex** | ✅ | Plex Media Server |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex-auto-languages.png" width="48" height="36" /> | **plex-auto-languages** | ✅ | Automated language selection for Plex TV Shows. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex-meta-manager.png" width="48" height="36" /> | **plex-meta-manager** | ⚠️ | Python script to update metadata and automatically build collections. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plextraktsync.png" width="48" height="36" /> | **plextraktsync** | ⚠️ | Two-way-sync between trakt.tv and Plex Media Server. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plextraktsync.png" width="48" height="36" /> | **plextraktsync 🆕** | ⚠️ | Two-way-sync between trakt.tv and Plex Media Server. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/posterr.png" width="48" height="36" /> | **posterr** | ⚠️ | Media display for Plex, sonarr and radarr |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
