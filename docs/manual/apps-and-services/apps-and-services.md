@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Apps and Services That I currently run
 
-I run two baremetal servers and this list updates daily automatically :) 
+This list updates daily automatically using a custom n8n workflow that I crafted. :)
 
 **Mew Scale Server**: networking
 
