@@ -6,7 +6,7 @@ sidebar_position: 1
 
 This list updates daily automatically using a custom n8n workflow that I crafted. :)
 
-**Mew Scale Server**: networking
+## **Mew Scale Server**: networking
 
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
@@ -26,7 +26,7 @@ This list updates daily automatically using a custom n8n workflow that I crafted
  Installed Services Count: **15**
 ___
 
-**MewTwo Scale Server**: Media and automations
+## **MewTwo Scale Server**: Media and automations
 
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
