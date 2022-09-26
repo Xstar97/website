@@ -6,7 +6,7 @@ sidebar_position: 1
 
 This list updates daily automatically using a custom n8n workflow that I crafted. :)
 
-Emoji descriptions:
+Train Descriptions:
   - ✅ = Stable Train
   - ⚠️ = Incubator Train
   - 🔨 = Dependency Train
