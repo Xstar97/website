@@ -22,7 +22,7 @@ This list updates daily automatically using a custom n8n workflow that I crafted
 
 ## **Mew Scale Server**: networking
 
-|icon|Chart|train|Description|
+|Icon|Chart|Train|Description|
 |:-------------:|:-------------:	|:-------------:	|---	|
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | ✅ | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" /> | **cloudflared 🆕** | ✅ | Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge. |
@@ -42,7 +42,7 @@ ___
 
 ## **MewTwo Scale Server**: Media and automations
 
-|icon|Chart|train|Description|
+|Icon|Chart|Train|Description|
 |:-------------:|:-------------:	|:-------------:	|---	|
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" /> | **bazarr** | ✅ | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" /> | **docusaurus 🆕** | ✅ | Docusaurus makes it easy to maintain Open Source documentation websites. |
