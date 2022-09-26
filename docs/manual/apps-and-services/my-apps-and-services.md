@@ -10,7 +10,7 @@ Train Descriptions:
  - ⚠️ = incubator Train -> These Charts are still in development and/or are not considered to be of high-enough quality.
  - ✅ = stable Train -> Contains most of our charts. These are considered stable and working.
  - 🔨 = dependency Train -> Contains charts that are mostly used as dependencies. This train is not supported, besides from bug fixes.
- - 👔 = enterprise Train -> WIP.
+ - 👔 = enterprise Train -> WIP. Full details to be announced soon.
 
 ## **Mew Scale Server**: networking
 
@@ -36,7 +36,7 @@ Train Descriptions:
  - ⚠️ = incubator Train -> These Charts are still in development and/or are not considered to be of high-enough quality.
  - ✅ = stable Train -> Contains most of our charts. These are considered stable and working.
  - 🔨 = dependency Train -> Contains charts that are mostly used as dependencies. This train is not supported, besides from bug fixes.
- - 👔 = enterprise Train -> WIP.
+ - 👔 = enterprise Train -> WIP. Full details to be announced soon.
 
 ## **MewTwo Scale Server**: Media and automations
 
