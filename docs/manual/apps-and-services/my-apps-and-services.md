@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Apps and Services That I currently run
+# My Apps and Services
 
 This list updates daily automatically using a custom n8n workflow that I crafted. :)
 
