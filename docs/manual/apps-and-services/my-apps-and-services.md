@@ -7,11 +7,17 @@ sidebar_position: 1
 This list updates daily automatically using a custom n8n workflow that I crafted. :)
 
 :::tip trains emoji descriptions
-✅ = Stable Train
-⚠️ = Incubator Train
-🔨 = Dependency Train
-👔 = Enterprise Train
-👷 =  WIP
+
+- ✅ = Stable Train
+
+- ⚠️ = Incubator Train
+
+- 🔨 = Dependency Train
+
+- 👔 = Enterprise Train
+
+- 👷 =  WIP
+
 :::
 
 ## **Mew Scale Server**: networking
