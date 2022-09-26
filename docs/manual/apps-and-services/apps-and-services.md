@@ -35,6 +35,7 @@ ___
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" />|**drawio**|Drawio is free online diagram software.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" />|**emulatorjs**|Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service (x2)**|Allow external services to be used like Apps.|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png" width="48" height="36" />|**fireflyiii**|A free and open source personal finance manager|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" />|**flaresolverr**|FlareSolverr is a proxy server to bypass Cloudflare protection|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flood.png" width="48" height="36" />|**flood**|Flood is a monitoring service for various torrent clients|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/grocy.png" width="48" height="36" />|**grocy**|ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home|
@@ -70,5 +71,5 @@ ___
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" />|**uptime-kuma**|A fancy self-hosted monitoring tool|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" />|**vaultwarden**|Unofficial Bitwarden compatible server written in Rust|
 
- Installed Services Count: **40**
+ Installed Services Count: **41**
 ___
