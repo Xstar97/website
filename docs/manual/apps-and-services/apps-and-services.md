@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Apps and Services That I currently run
 
-I run two baremetal servers:
+I run two baremetal servers and this list updates daily automatically :) 
 
 **Mew Scale Server**: networking
 
