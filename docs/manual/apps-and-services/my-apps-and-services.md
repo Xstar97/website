@@ -34,7 +34,7 @@ ___
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" />|**docusaurus 🆕**|Docusaurus makes it easy to maintain Open Source documentation websites.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" />|**drawio**|Drawio is free online diagram software.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" />|**emulatorjs**|Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles.|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service**|Allow external services to be used like Apps.|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service (x2) 🆕**|Allow external services to be used like Apps.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png" width="48" height="36" />|**fireflyiii 🆕**|A free and open source personal finance manager|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" />|**flaresolverr**|FlareSolverr is a proxy server to bypass Cloudflare protection|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flood.png" width="48" height="36" />|**flood**|Flood is a monitoring service for various torrent clients|
