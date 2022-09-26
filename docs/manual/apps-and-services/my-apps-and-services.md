@@ -11,7 +11,7 @@ This list updates daily automatically using a custom n8n workflow that I crafted
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" />|**authelia**|Authelia is a Single Sign-On Multi-Factor portal for web apps|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" />|**cloudflared**|Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" />|**cloudflared 🆕**|Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/ddns-updater.png" width="48" height="36" />|**ddns-updater**|Light container updating DNS A and/or AAAA records periodically for multiple DNS providers|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service (x2)**|Allow external services to be used like Apps.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" />|**littlelink (x2)**|Easy platform to combine all your social links|
@@ -31,11 +31,11 @@ ___
 |icon|Chart|Description|
 |:-------------:|:-------------:	|---	|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" />|**bazarr**|Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" />|**docusaurus**|Docusaurus makes it easy to maintain Open Source documentation websites.|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" />|**docusaurus 🆕**|Docusaurus makes it easy to maintain Open Source documentation websites.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" />|**drawio**|Drawio is free online diagram software.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" />|**emulatorjs**|Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles.|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service (x2)**|Allow external services to be used like Apps.|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png" width="48" height="36" />|**fireflyiii**|A free and open source personal finance manager|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" />|**external-service (x2) 🆕**|Allow external services to be used like Apps.|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png" width="48" height="36" />|**fireflyiii 🆕**|A free and open source personal finance manager|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" />|**flaresolverr**|FlareSolverr is a proxy server to bypass Cloudflare protection|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/flood.png" width="48" height="36" />|**flood**|Flood is a monitoring service for various torrent clients|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/grocy.png" width="48" height="36" />|**grocy**|ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home|
@@ -61,7 +61,7 @@ ___
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="48" height="36" />|**requestrr**|Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png" width="48" height="36" />|**ring-mqtt**|Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" />|**scrutiny**|Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution.|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/snipe-it.png" width="48" height="36" />|**snipe-it**|Open source asset management|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/snipe-it.png" width="48" height="36" />|**snipe-it 🆕**|Open source asset management|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="48" height="36" />|**sonarr**|Smart PVR for newsgroup and bittorrent users|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png" width="48" height="36" />|**strapi**|Strapi is the leading open-source headless CMS. JavaScript, fully customizable and developer-first.|
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/tautulli.png" width="48" height="36" />|**tautulli**|A Python based monitoring and tracking tool for Plex Media Server|
