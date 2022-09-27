@@ -7,8 +7,8 @@ sidebar_position: 1
 This list updates daily automatically using a custom n8n workflow that I crafted. :)
 
 Train Descriptions:
- - 👔 = enterprise Train -> WIP. Full details to be announced soon.
  - 🔨 = dependency Train -> Contains charts that are mostly used as dependencies. This train is not supported, besides from bug fixes.
+ - 👔 = enterprise Train -> WIP. Full details to be announced soon.
  - ✅ = stable Train -> Contains most of our charts. These are considered stable and working.
  - ⚠️ = incubator Train -> These Charts are still in development and/or are not considered to be of high-enough quality.
 
