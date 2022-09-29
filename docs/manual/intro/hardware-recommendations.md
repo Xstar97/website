@@ -37,6 +37,7 @@ ___
 | Seagate Exos | 10 |$282.12 | $28.21 |
 | Seagate Exos | 4 |$113.49 | $28.37 |
 | Seagate Exos | 8 |$229.99 | $28.75 |
+| Seagate IronWolf | 6 |$175 | $29.17 |
 | Seagate IronWolf | 2 |$69.99 | $34.99 |
 | Seagate Exos | 2 |$138.68 | $69.34 |
 | Seagate Exos | 1 |$119.99 | $119.99 |
