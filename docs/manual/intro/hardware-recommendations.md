@@ -17,6 +17,7 @@ You can use any hardware that you want and don't have to conform to these produc
 - HDD, mass storage mechanical drives.
   - Highly recommend the seagate enterprise drives 18 TB+.
     - very cost effective for $ USD per TB.
+    - you can start with 1, but highly recommend 2-4 drives.
 
 ___
 
@@ -27,11 +28,11 @@ ___
 
 :::
 
-| Drive | Size(In TBs) | Price | Price(per TB) |
-| :-------------: |:-------------: | :-------------:	| :-------------:	|
-| Seagate Exos | 14 |$235.99 | $16.86 |
-| Seagate Exos | 18 |$319.99 | $17.78 |
-| Seagate Exos | 6 |$108 | $18.00 |
+| Drive | Size(In TBs) | Price | Price(per TB) | Price(per GB) |
+| :-------------: |:-------------: | :-------------:	| :-------------:	| :-------------:	|
+| Seagate Exos | 14 |$235.99 | $16.86 | |
+| Seagate Exos | 18 |$319.99 | $17.78 | |
+| Seagate Exos | 6 |$108 | $18.00 | |
 | Seagate Exos | 16 |$289.99 | $18.12 |
 | Seagate IronWolf | 16 |$299.99 | $18.75 |
 | Seagate Exos | 12 |$239.99 | $20.00 |
