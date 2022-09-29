@@ -16,3 +16,12 @@ You can use any hardware that you want and don't have to conform to these produc
   - Highly recommend the seagate enterprise drives 16 TB or more.
     - very cost effective for $ USD per TB.
 
+___
+
+## Drive comparison price
+
+
+|Drive| Size |Price| Total |
+| :-------------: |:-------------: | :-------------:	| :-------------	|
+| Seagate Exos | 16TB | $289.00 | $18.12
+| Seagate Exos | 20TB | $459.99 | $23.00
