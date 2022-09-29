@@ -20,6 +20,10 @@ ___
 
 ## HDD Drive comparison price
 
+:::info
+- Prices are based from amazon
+
+:::
 
 | Drive | Size(In TBs) | Price | Total(per TB) |
 | :-------------: |:-------------: | :-------------:	| :-------------:	|
