@@ -50,4 +50,7 @@ ___
 | Seagate Exos | 2 |$138.68 | $69.34 | $0.07 |
 | Seagate Exos | 1 |$119.99 | $119.99 | $0.12 |
 
-**best deal**: Seagate Exos 14TB for $235.99
+**best deals**:
+- Seagate Exos 14TB for $235.99
+- Seagate Exos 6TB for $108
+- Seagate Exos 16TB for $289.99
