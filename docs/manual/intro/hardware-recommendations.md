@@ -4,16 +4,18 @@ sidebar_position: 2
 
 # Hardware Recommendations
 
-:::tip NOTES
+:::info NOTES
 You can use any hardware that you want and don't have to conform to these products or this list.
 :::
 
 - SSD's solid state drives.
-  - My best recommendation for consumer level SSDs will be samsung.
-    - Use m.2 SSDs for the boot drive(s).
+  - My best recommendation for consumer level SSDs will be Samsung.
+    - Use small SSDs for the boot drive(s), recommended to have two and mirror them.
+    - a 1TB+ m.2 for the app pool.
+    - a 2TB m.2 for cache or separate pool for downloading/transcoding.
 
 - HDD, mass storage mechanical drives.
-  - Highly recommend the seagate enterprise drives 16 TB or more.
+  - Highly recommend the seagate enterprise drives 18 TB+.
     - very cost effective for $ USD per TB.
 
 ___
@@ -25,7 +27,7 @@ ___
 
 :::
 
-| Drive | Size(In TBs) | Price | Total(per TB) |
+| Drive | Size(In TBs) | Price | Price(per TB) |
 | :-------------: |:-------------: | :-------------:	| :-------------:	|
 | Seagate Exos | 14 |$235.99 | $16.86 |
 | Seagate Exos | 18 |$319.99 | $17.78 |
