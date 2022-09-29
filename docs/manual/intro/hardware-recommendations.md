@@ -18,7 +18,7 @@ You can use any hardware that you want and don't have to conform to these produc
 
 ___
 
-## Drive comparison price
+## HDD Drive comparison price
 
 
 |Drive| Size |Price| Total |
