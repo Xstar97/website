@@ -24,7 +24,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" /> | **littlelink<sup>x2</sup>** | ✅ | Easy platform to combine all your social links |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openldap.png" width="48" height="36" /> | **openldap** | ✅ | Community developed LDAP software |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/phpldapadmin.png" width="48" height="36" /> | **phpldapadmin** | ✅ | Web-based LDAP browser to manage your LDAP server |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole 🆕** | ✅ | DNS and Ad-filtering for your network |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole** | ✅ | DNS and Ad-filtering for your network |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png" width="48" height="36" /> | **simply-shorten<sup>x2</sup>** | ✅ | A dead simple URL shortener. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/theme-park.png" width="48" height="36" /> | **theme-park** | ✅ | Custom themes for your favorite apps! |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | ✅ | Traefik is a flexible reverse proxy and Ingress Provider. |
