@@ -19,7 +19,7 @@ const FeatureList = [
     gif: true,
     description: (
       <>
-        Focus on that "anime" addiction and let me spend the time writing the docs weeb.
+        Focus on that "anime" addiction and let me spend the time writing the docs 😉.
       </>
     ),
   },
