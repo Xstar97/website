@@ -1,13 +1,12 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
-import anime from '../../static/img/anime.gif';
 
 const FeatureList = [
   {
     title: 'Easy for noobs',
-    Svg: require('../../static/img/ok-noob.svg').default,
-    gif: false,
+    Svg: require('../../static/img/saitama-tf.gif').default,//require('../../static/img/ok-noob.svg').default,
+    gif: true,
     description: (
       <>
         Easy for any noob or pro to read and get started right away!
@@ -16,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/anime.gif').default,//require('../../static/img/undraw_docusaurus_mountain.svg').default,
     gif: true,
     description: (
       <>
@@ -26,8 +25,8 @@ const FeatureList = [
   },
   {
     title: 'Powered by a Noob',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
-    gif: false,
+    Svg: require('../../static/img/thumbs-up.gif').default,
+    gif: true,
     description: (
       <>
         Welcome to the noob life of homelabbing.
@@ -53,7 +52,7 @@ function Feature({Svg, title, description, gif}) {
     return (
       <div className={clsx('col col--4')}>
         <div className="text--center">
-        <img src="../../static/img/anime.gif" alt="loading..." />
+        <img src={Svg} alt="loading..." />
         </div>
         <div className="text--center padding-horiz--md">
           <h3>{title}</h3>
