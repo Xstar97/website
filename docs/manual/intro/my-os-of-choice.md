@@ -12,10 +12,22 @@ ___
 
 ## Truenas Scale
 
-A debian based appliance NAS OS.
+A debian based appliance NAS OS. 
+ - Development Labs, Data Centers, Large Scale Applications
+
+Download it [here](https://www.truenas.com/download-truenas-scale/).
+
+![truenas scale features](imgs/TrueNAS_SCALE_Software_Features_Half_Circle_Illustration_2022.webp)
 
 ___
 
 ## Truenas Core
 
-A freeBSD based appliance NAS OS.
+A freeBSD based appliance NAS OS. 
+
+- Non-Critical Storage Applications.
+
+Download it [here](https://www.truenas.com/download-truenas-core/).
+
+
+![truenas scale features](imgs/TrueNAS_CORE_Software_Features_Half_Circle_Illustration_2022.webp)

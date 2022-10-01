@@ -7,6 +7,15 @@ sidebar_position: 4
 
 ## domain provider
 
+My favorite domain provider is [Cloudflare](https://www.cloudflare.com/). They offer a ton of services for FREE that any self hoster **should** use. You dont have to even purchase a domain from them at all to use their services.
+
+- Proxy Domain DNS records(hiding your public IP for more anonymity and security)
+- DNS
+- Zero Trust(free tier)
+- Wildcard Letsencrypt certs.
+- WAF (Web Application Firewall)
+- Email Routing/Email Security
+- Caching/always-online-
 
 ## Static IPs
 
@@ -14,5 +23,7 @@ sidebar_position: 4
 ## CGNAT
 
 
-## Local Resolving Your domain
+## DNS
 
+
+## Locally Resolving Your domain
