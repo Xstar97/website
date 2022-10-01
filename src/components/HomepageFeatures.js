@@ -24,7 +24,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by a Noob',
+    title: 'Powered by Docusarus',
     Svg: require('../../static/img/thumbs-up.gif').default,
     gif: true,
     description: (
