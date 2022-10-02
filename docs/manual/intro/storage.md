@@ -18,8 +18,9 @@ You should have a multi-pools setup:
 
 ## Permissions
 
-Majority of the truecharts catalog has user/groups permissions for 568(apps). So anytime you make a dataset(s) the permissions should be 568 for both owner and groups.
-except for some charts that require `www-data`, please be sure to checkout the charts respective istallation documentations for notes on permissions.
+Majority of the truecharts catalog has owner/groups permissions for `apps` or 568.
+
+So anytime you make a dataset(s) the permissions should be set accordingly except for some charts that require `www-data`, please be sure to checkout the charts respective istallation documentations for notes on permissions.
 
 ACL's are not supported and can cause issues, so its heavily advised to _never_ use ACL's and use the correct permissions.
 
