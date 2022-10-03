@@ -26,7 +26,7 @@ ACL's are not supported and can cause issues, so its heavily advised to _never_ 
 
 ## Using samba with Truecharts
 
-This was written by a user `zasx` from the truecharts discord. All credits and love should go to him. this is a accepted solution until bluefin is released.
+This was written by a user `zasx` from the [truechart's discord](https://discord.gg/BaUXFbZu5b). All credits and love should go to him. this is a accepted solution until bluefin is released.
 
 ### Setting up a local user
 
