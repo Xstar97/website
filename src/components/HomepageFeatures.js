@@ -24,7 +24,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by Docusarus',
+    title: 'Powered by Docusaurus',
     Svg: require('../../static/img/thumbs-up.gif').default,
     gif: true,
     description: (
