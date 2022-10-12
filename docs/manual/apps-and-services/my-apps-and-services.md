@@ -49,7 +49,6 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png" width="48" height="36" /> | **fireflyiii** | ✅ | A free and open source personal finance manager |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flood.png" width="48" height="36" /> | **flood** | ✅ | Flood is a monitoring service for various torrent clients |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png" width="48" height="36" /> | **grafana 🆕** | ✅ | Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grocy.png" width="48" height="36" /> | **grocy** | ✅ | ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
@@ -67,7 +66,6 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex-meta-manager.png" width="48" height="36" /> | **plex-meta-manager** | ⚠️ | Python script to update metadata and automatically build collections. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plextraktsync.png" width="48" height="36" /> | **plextraktsync** | ⚠️ | Two-way-sync between trakt.tv and Plex Media Server. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/posterr.png" width="48" height="36" /> | **posterr** | ✅ | Media display for Plex, Sonarr and Radarr. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png" width="48" height="36" /> | **prometheus 🆕** | ✅ | kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Prometheus rules combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring with Prometheus using the Prometheus Operator. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="48" height="36" /> | **requestrr** | ✅ | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. |
@@ -83,5 +81,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **42**
+ Installed Services Count: **40**
 ___
