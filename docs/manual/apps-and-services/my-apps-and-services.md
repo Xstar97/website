@@ -17,21 +17,21 @@ Train Descriptions:
 
 |Icon|Chart|Train|Description|
 | :-------------: |:-------------: | :-------------:	| :-------------	|
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | ✅ | Authelia is a Single Sign-On Multi-Factor portal for web apps |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" /> | **cloudflared** | ✅ | Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ddns-updater.png" width="48" height="36" /> | **ddns-updater** | ✅ | Light container updating DNS A and/or AAAA records periodically for multiple DNS providers |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x2</sup>** | ✅ | Allow external services to be used like Apps. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavitaemail.png" width="48" height="36" /> | **kavitaemail** | ⚠️ | Simple email relay server for kavita. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" /> | **littlelink<sup>x2</sup>** | ✅ | Easy platform to combine all your social links |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openldap.png" width="48" height="36" /> | **openldap** | ✅ | Community developed LDAP software |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/phpldapadmin.png" width="48" height="36" /> | **phpldapadmin** | ✅ | Web-based LDAP browser to manage your LDAP server |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole** | ✅ | DNS and Ad-filtering for your network |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png" width="48" height="36" /> | **simply-shorten<sup>x2</sup>** | ✅ | A dead simple URL shortener. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-tracker.png" width="48" height="36" /> | **speedtest-tracker** | ⚠️ | This app runs a speedtest check every hour and graphs the results. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/theme-park.png" width="48" height="36" /> | **theme-park** | ✅ | Custom themes for your favorite apps! |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | ✅ | Traefik is a flexible reverse proxy and Ingress Provider. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia 🆕** | ✅ | Authelia is a Single Sign-On Multi-Factor portal for web apps |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" /> | **cloudflared 🆕** | ✅ | Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ddns-updater.png" width="48" height="36" /> | **ddns-updater 🆕** | ✅ | Light container updating DNS A and/or AAAA records periodically for multiple DNS providers |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x2</sup> 🆕** | ✅ | Allow external services to be used like Apps. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavitaemail.png" width="48" height="36" /> | **kavitaemail 🆕** | ⚠️ | Simple email relay server for kavita. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" /> | **littlelink<sup>x2</sup> 🆕** | ✅ | Easy platform to combine all your social links |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openldap.png" width="48" height="36" /> | **openldap 🆕** | ✅ | Community developed LDAP software |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/phpldapadmin.png" width="48" height="36" /> | **phpldapadmin 🆕** | ✅ | Web-based LDAP browser to manage your LDAP server |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole 🆕** | ✅ | DNS and Ad-filtering for your network |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny 🆕** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png" width="48" height="36" /> | **simply-shorten<sup>x2</sup> 🆕** | ✅ | A dead simple URL shortener. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-tracker.png" width="48" height="36" /> | **speedtest-tracker 🆕** | ⚠️ | This app runs a speedtest check every hour and graphs the results. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/theme-park.png" width="48" height="36" /> | **theme-park 🆕** | ✅ | Custom themes for your favorite apps! |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik 🆕** | ✅ | Traefik is a flexible reverse proxy and Ingress Provider. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy 🆕** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 
  Installed Services Count: **18**
 ___
