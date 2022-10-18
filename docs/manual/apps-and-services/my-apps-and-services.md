@@ -59,6 +59,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="48" height="36" /> | **mosquitto** | ✅ | Eclipse Mosquitto - An open source MQTT broker |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mymediaforalexa.png" width="48" height="36" /> | **mymediaforalexa** | ✅ | This is the multi-platform Docker image for My Media for Alexa - https://www.mymediaalexa.com . |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/octoprint.png" width="48" height="36" /> | **octoprint 🆕** | ✅ | OctoPrint is the snappy web interface for your 3D printer |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/overseerr.png" width="48" height="36" /> | **overseerr** | ✅ | Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services such as Sonarr, Radarr and Plex! |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/paperless-ng.png" width="48" height="36" /> | **paperless-ng** | ✅ | Paperless-ngx is an application by Daniel Quinn and contributors that indexes your scanned documents. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pasta.png" width="48" height="36" /> | **pasta** | ✅ | PASTA - Audio and Subtitle Track Changer for Plex |
@@ -83,5 +84,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **42**
+ Installed Services Count: **43**
 ___
