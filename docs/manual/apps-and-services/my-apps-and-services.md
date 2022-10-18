@@ -48,10 +48,10 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png" width="48" height="36" /> | **fireflyiii** | ✅ | A free and open source personal finance manager |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png" width="48" height="36" /> | **grafana 🆕** | ✅ | Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png" width="48" height="36" /> | **grafana** | ✅ | Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grocy.png" width="48" height="36" /> | **grocy** | ✅ | ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/immich.png" width="48" height="36" /> | **immich 🆕** | ✅ | High performance self-hosted photo and video backup solution. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/immich.png" width="48" height="36" /> | **immich** | ✅ | High performance self-hosted photo and video backup solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png" width="48" height="36" /> | **kavita** | ✅ | Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="48" height="36" /> | **lidarr** | ✅ | Looks and smells like Sonarr but made for music |
@@ -70,7 +70,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="48" height="36" /> | **requestrr** | ✅ | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/retrobot.png" width="48" height="36" /> | **retrobot 🆕** | ⚠️ | A discord bot that allows you to play old nintendo games with your friends over chat. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/retrobot.png" width="48" height="36" /> | **retrobot** | ⚠️ | A discord bot that allows you to play old nintendo games with your friends over chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png" width="48" height="36" /> | **ring-mqtt** | ✅ | Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/snipe-it.png" width="48" height="36" /> | **snipe-it** | ✅ | Open source asset management |
