@@ -6,6 +6,8 @@
 
 /logs
 
+tmp_cron
+
 # Generated files
 .docusaurus
 .cache-loader
