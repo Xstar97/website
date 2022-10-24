@@ -23,6 +23,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x2</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavitaemail.png" width="48" height="36" /> | **kavitaemail** | ⚠️ | Simple email relay server for kavita. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" /> | **littlelink<sup>x2</sup>** | ✅ | Easy platform to combine all your social links |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="48" height="36" /> | **metallb 🆕** | 👔 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openldap.png" width="48" height="36" /> | **openldap** | ✅ | Community developed LDAP software |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/phpldapadmin.png" width="48" height="36" /> | **phpldapadmin** | ✅ | Web-based LDAP browser to manage your LDAP server |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole** | ✅ | DNS and Ad-filtering for your network |
@@ -35,7 +36,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/whoogle.png" width="48" height="36" /> | **whoogle** | ✅ | A self-hosted, ad-free, privacy-respecting metasearch engine |
 
- Installed Services Count: **20**
+ Installed Services Count: **21**
 ___
 
 ## **MewTwo Scale Server**: Media and automations
@@ -58,8 +59,8 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png" width="48" height="36" /> | **kavita** | ✅ | Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="48" height="36" /> | **lidarr** | ✅ | Looks and smells like Sonarr but made for music |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="48" height="36" /> | **metallb 🆕** | 👔 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metube.png" width="48" height="36" /> | **metube** | ✅ | Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-java.png" width="48" height="36" /> | **minecraft-java 🆕** | ✅ | Minecraft Java Dedicated Server |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="48" height="36" /> | **mosquitto** | ✅ | Eclipse Mosquitto - An open source MQTT broker |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mymediaforalexa.png" width="48" height="36" /> | **mymediaforalexa** | ✅ | This is the multi-platform Docker image for My Media for Alexa - https://www.mymediaalexa.com . |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
