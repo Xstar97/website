@@ -30,11 +30,12 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png" width="48" height="36" /> | **simply-shorten<sup>x2</sup>** | ✅ | A dead simple URL shortener. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-tracker.png" width="48" height="36" /> | **speedtest-tracker** | ⚠️ | This app runs a speedtest check every hour and graphs the results. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/theme-park.png" width="48" height="36" /> | **theme-park** | ✅ | Custom themes for your favorite apps! |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traccar.png" width="48" height="36" /> | **traccar 🆕** | ✅ | Traccar is an open source GPS tracking system. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | ✅ | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/whoogle.png" width="48" height="36" /> | **whoogle** | ✅ | A self-hosted, ad-free, privacy-respecting metasearch engine |
 
- Installed Services Count: **19**
+ Installed Services Count: **20**
 ___
 
 ## **MewTwo Scale Server**: Media and automations
@@ -58,6 +59,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png" width="48" height="36" /> | **kavita** | ✅ | Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="48" height="36" /> | **lidarr** | ✅ | Looks and smells like Sonarr but made for music |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metube.png" width="48" height="36" /> | **metube** | ✅ | Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-bedrock.png" width="48" height="36" /> | **minecraft-bedrock 🆕** | ✅ | Minecraft Bedrock Dedicated Server |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="48" height="36" /> | **mosquitto** | ✅ | Eclipse Mosquitto - An open source MQTT broker |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mymediaforalexa.png" width="48" height="36" /> | **mymediaforalexa** | ✅ | This is the multi-platform Docker image for My Media for Alexa - https://www.mymediaalexa.com . |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
@@ -85,5 +87,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **43**
+ Installed Services Count: **44**
 ___
