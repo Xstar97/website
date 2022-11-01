@@ -28,7 +28,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole** | ✅ | DNS and Ad-filtering for your network |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png" width="48" height="36" /> | **simply-shorten<sup>x2</sup>** | ✅ | A dead simple URL shortener. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-tracker.png" width="48" height="36" /> | **speedtest-tracker 🆕** | ⚠️ | A self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-tracker.png" width="48" height="36" /> | **speedtest-tracker** | ⚠️ | A self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/theme-park.png" width="48" height="36" /> | **theme-park** | ✅ | Custom themes for your favorite apps! |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traccar.png" width="48" height="36" /> | **traccar** | ✅ | Traccar is an open source GPS tracking system. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | ✅ | Traefik is a flexible reverse proxy and Ingress Provider. |
@@ -73,6 +73,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plextraktsync.png" width="48" height="36" /> | **plextraktsync** | ⚠️ | Two-way-sync between trakt.tv and Plex Media Server. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/posterr.png" width="48" height="36" /> | **posterr** | ✅ | Media display for Plex, Sonarr and Radarr. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/quiz-game.png" width="48" height="36" /> | **quiz-game 🆕** | ⚠️ | Test your General Knowledge in different types of topics. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="48" height="36" /> | **requestrr** | ✅ | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/retrobot.png" width="48" height="36" /> | **retrobot** | ⚠️ | A discord bot that allows you to play old nintendo games with your friends over chat. |
@@ -88,5 +89,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **44**
+ Installed Services Count: **45**
 ___
