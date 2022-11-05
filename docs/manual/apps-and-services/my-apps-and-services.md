@@ -55,7 +55,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png" width="48" height="36" /> | **grafana** | ✅ | Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grocy.png" width="48" height="36" /> | **grocy** | ✅ | ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/invitarr.png" width="48" height="36" /> | **invitarr 🆕** | ⚠️ | A chatbot that invites discord users to plex. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/invitarr.png" width="48" height="36" /> | **invitarr** | ⚠️ | A chatbot that invites discord users to plex. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png" width="48" height="36" /> | **kavita** | ✅ | Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="48" height="36" /> | **lidarr** | ✅ | Looks and smells like Sonarr but made for music |
@@ -73,7 +73,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plextraktsync.png" width="48" height="36" /> | **plextraktsync** | ⚠️ | Two-way-sync between trakt.tv and Plex Media Server. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/posterr.png" width="48" height="36" /> | **posterr** | ✅ | Media display for Plex, Sonarr and Radarr. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ra-rom-processor.png" width="48" height="36" /> | **ra-rom-processor 🆕** | ⚠️ | Download / Orgainze / Process / Verify / Dedupe / Scrape a ROMs library automatically by matching ROMs to the RetroAchievement.org database. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ra-rom-processor.png" width="48" height="36" /> | **ra-rom-processor** | ⚠️ | Download / Orgainze / Process / Verify / Dedupe / Scrape a ROMs library automatically by matching ROMs to the RetroAchievement.org database. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="48" height="36" /> | **requestrr** | ✅ | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/retrobot.png" width="48" height="36" /> | **retrobot** | ✅ | A discord bot that allows you to play old nintendo games with your friends over chat. |
