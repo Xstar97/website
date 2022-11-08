@@ -61,6 +61,8 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="48" height="36" /> | **lidarr** | ✅ | Looks and smells like Sonarr but made for music |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="48" height="36" /> | **metallb** | 👔 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metube.png" width="48" height="36" /> | **metube** | ✅ | Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-bungeecord.png" width="48" height="36" /> | **minecraft-bungeecord 🆕** | ✅ | A Spigot BungeeCord server. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-java.png" width="48" height="36" /> | **minecraft-java<sup>x3</sup> 🆕** | ✅ | Minecraft Java Dedicated Server |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="48" height="36" /> | **mosquitto** | ✅ | Eclipse Mosquitto - An open source MQTT broker |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mymediaforalexa.png" width="48" height="36" /> | **mymediaforalexa** | ✅ | This is the multi-platform Docker image for My Media for Alexa - https://www.mymediaalexa.com . |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
@@ -89,5 +91,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **47**
+ Installed Services Count: **51**
 ___
