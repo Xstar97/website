@@ -19,7 +19,7 @@ Train Descriptions:
 | :-------------: |:-------------: | :-------------:	| :-------------	|
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | ✅ | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ddns-updater.png" width="48" height="36" /> | **ddns-updater** | ✅ | Light container updating DNS A and/or AAAA records periodically for multiple DNS providers |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x2</sup>** | ✅ | Allow external services to be used like Apps. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavitaemail.png" width="48" height="36" /> | **kavitaemail** | ⚠️ | Simple email relay server for kavita. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" /> | **littlelink<sup>x2</sup>** | ✅ | Easy platform to combine all your social links |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openldap.png" width="48" height="36" /> | **openldap** | ✅ | Community developed LDAP software |
@@ -34,7 +34,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/whoogle.png" width="48" height="36" /> | **whoogle** | ✅ | A self-hosted, ad-free, privacy-respecting metasearch engine |
 
- Installed Services Count: **19**
+ Installed Services Count: **18**
 ___
 
 ## **MewTwo Scale Server**: Media and automations
