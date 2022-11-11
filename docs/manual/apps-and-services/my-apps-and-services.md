@@ -45,7 +45,6 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" /> | **bazarr** | ✅ | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" /> | **cloudflared** | ✅ | Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/code-server.png" width="48" height="36" /> | **code-server** | ✅ | Run VS Code on any machine anywhere and access it in the browser. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/crafty-4.png" width="48" height="36" /> | **crafty-4** | ⚠️ | Crafty 4 is the next iteration of our Minecraft Server Wrapper / Controller / Launcher. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" /> | **docusaurus** | ✅ | Docusaurus makes it easy to maintain Open Source documentation websites. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" /> | **drawio** | ✅ | Drawio is free online diagram software. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" /> | **emulatorjs** | ✅ | Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles. |
@@ -77,6 +76,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ra-rom-processor.png" width="48" height="36" /> | **ra-rom-processor** | ⚠️ | Download / Orgainze / Process / Verify / Dedupe / Scrape a ROMs library automatically by matching ROMs to the RetroAchievement.org database. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/rcon-webadmin.png" width="48" height="36" /> | **rcon-webadmin 🆕** | ✅ | Out of the box, RCON Web Admin can check users for high ping, VAC status, or filter the chat for you around the clock. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="48" height="36" /> | **requestrr** | ✅ | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/retrobot.png" width="48" height="36" /> | **retrobot** | ✅ | A discord bot that allows you to play old nintendo games with your friends over chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png" width="48" height="36" /> | **ring-mqtt** | ✅ | Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT. |
