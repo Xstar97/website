@@ -58,6 +58,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png" width="48" height="36" /> | **kavita** | ✅ | Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="48" height="36" /> | **lidarr** | ✅ | Looks and smells like Sonarr but made for music |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png" width="48" height="36" /> | **mariadb 🆕** | 🔨 | Fast, reliable, scalable, and easy to use open-source relational database system. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="48" height="36" /> | **metallb** | 👔 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metube.png" width="48" height="36" /> | **metube** | ✅ | Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-bungeecord.png" width="48" height="36" /> | **minecraft-bungeecord** | ✅ | A Spigot BungeeCord server. |
@@ -76,7 +77,6 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ra-rom-processor.png" width="48" height="36" /> | **ra-rom-processor** | ⚠️ | Download / Orgainze / Process / Verify / Dedupe / Scrape a ROMs library automatically by matching ROMs to the RetroAchievement.org database. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/rcon-webadmin.png" width="48" height="36" /> | **rcon-webadmin 🆕** | ✅ | Out of the box, RCON Web Admin can check users for high ping, VAC status, or filter the chat for you around the clock. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="48" height="36" /> | **requestrr** | ✅ | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/retrobot.png" width="48" height="36" /> | **retrobot** | ✅ | A discord bot that allows you to play old nintendo games with your friends over chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png" width="48" height="36" /> | **ring-mqtt** | ✅ | Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT. |
