@@ -80,7 +80,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="48" height="36" /> | **requestrr** | ✅ | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/retrobot.png" width="48" height="36" /> | **retrobot** | ✅ | A discord bot that allows you to play old nintendo games with your friends over chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png" width="48" height="36" /> | **ring-mqtt** | ✅ | Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny 🆕** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/snipe-it.png" width="48" height="36" /> | **snipe-it** | ✅ | Open source asset management |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="48" height="36" /> | **sonarr** | ✅ | Smart PVR for newsgroup and bittorrent users |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png" width="48" height="36" /> | **strapi** | ✅ | Strapi is the leading open-source headless CMS. JavaScript, fully customizable and developer-first. |
