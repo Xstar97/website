@@ -48,7 +48,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" /> | **docusaurus** | ✅ | Docusaurus makes it easy to maintain Open Source documentation websites. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" /> | **drawio** | ✅ | Drawio is free online diagram software. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" /> | **emulatorjs** | ✅ | Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x5</sup>** | ✅ | Allow external services to be used like Apps. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x6</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png" width="48" height="36" /> | **fireflyiii** | ✅ | A free and open source personal finance manager |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png" width="48" height="36" /> | **grafana** | ✅ | Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB. |
@@ -91,5 +91,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **55**
+ Installed Services Count: **56**
 ___
