@@ -43,13 +43,15 @@ ___
 | :-------------: |:-------------: | :-------------:	| :-------------	|
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png" width="48" height="36" /> | **authentik** | ✅ | authentik is an open-source Identity Provider focused on flexibility and versatility. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" /> | **bazarr** | ✅ | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/budge.png" width="48" height="36" /> | **budge 🆕** | ✅ | Budge is an open source 'budgeting with envelopes' personal finance app. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" /> | **cloudflared** | ✅ | Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/code-server.png" width="48" height="36" /> | **code-server** | ✅ | Run VS Code on any machine anywhere and access it in the browser. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" /> | **docusaurus** | ✅ | Docusaurus makes it easy to maintain Open Source documentation websites. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" /> | **drawio** | ✅ | Drawio is free online diagram software. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" /> | **emulatorjs** | ✅ | Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x6</sup>** | ✅ | Allow external services to be used like Apps. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x7</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png" width="48" height="36" /> | **fireflyiii** | ✅ | A free and open source personal finance manager |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii-data-importer.png" width="48" height="36" /> | **fireflyiii-data-importer 🆕** | ⚠️ | Firefly III Data Importer. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png" width="48" height="36" /> | **grafana** | ✅ | Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/grocy.png" width="48" height="36" /> | **grocy** | ✅ | ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home |
@@ -58,6 +60,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png" width="48" height="36" /> | **kavita** | ✅ | Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="48" height="36" /> | **lidarr** | ✅ | Looks and smells like Sonarr but made for music |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/magicmirror2.png" width="48" height="36" /> | **magicmirror2 🆕** | ⚠️ | Open source modular smart mirror platform. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png" width="48" height="36" /> | **mariadb 🆕** | 🔨 | Fast, reliable, scalable, and easy to use open-source relational database system. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="48" height="36" /> | **metallb** | 👔 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metube.png" width="48" height="36" /> | **metube** | ✅ | Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites |
@@ -91,5 +94,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **56**
+ Installed Services Count: **60**
 ___
