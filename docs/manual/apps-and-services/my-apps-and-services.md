@@ -49,7 +49,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" /> | **docusaurus** | ✅ | Docusaurus makes it easy to maintain Open Source documentation websites. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" /> | **drawio** | ✅ | Drawio is free online diagram software. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" /> | **emulatorjs** | ✅ | Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x7</sup>** | ✅ | Allow external services to be used like Apps. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x2</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png" width="48" height="36" /> | **fireflyiii** | ✅ | A free and open source personal finance manager |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii-data-importer.png" width="48" height="36" /> | **fireflyiii-data-importer 🆕** | ⚠️ | Firefly III Data Importer. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
@@ -82,7 +82,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/requestrr.png" width="48" height="36" /> | **requestrr** | ✅ | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/retrobot.png" width="48" height="36" /> | **retrobot** | ✅ | A discord bot that allows you to play old nintendo games with your friends over chat. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png" width="48" height="36" /> | **ring-mqtt** | ✅ | Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny 🆕** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/snipe-it.png" width="48" height="36" /> | **snipe-it** | ✅ | Open source asset management |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="48" height="36" /> | **sonarr** | ✅ | Smart PVR for newsgroup and bittorrent users |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png" width="48" height="36" /> | **strapi** | ✅ | Strapi is the leading open-source headless CMS. JavaScript, fully customizable and developer-first. |
@@ -93,5 +93,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **59**
+ Installed Services Count: **54**
 ___
