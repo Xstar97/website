@@ -60,7 +60,6 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png" width="48" height="36" /> | **kavita** | ✅ | Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png" width="48" height="36" /> | **lidarr** | ✅ | Looks and smells like Sonarr but made for music |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/magicmirror2.png" width="48" height="36" /> | **magicmirror2 🆕** | ⚠️ | Open source modular smart mirror platform. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png" width="48" height="36" /> | **mariadb 🆕** | 🔨 | Fast, reliable, scalable, and easy to use open-source relational database system. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metube.png" width="48" height="36" /> | **metube** | ✅ | Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-bungeecord.png" width="48" height="36" /> | **minecraft-bungeecord** | ✅ | A Spigot BungeeCord server. |
@@ -93,5 +92,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **54**
+ Installed Services Count: **53**
 ___
