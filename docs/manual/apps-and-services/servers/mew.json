@@ -1,102 +1,119 @@
 {
     "serverName": "Mew Scale Server",
     "serverDescription": "networking",
+    "count": 18,
     "apps": [
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
             "name": "authelia",
             "train": "stable",
-            "description": "Authelia is a Single Sign-On Multi-Factor portal for web apps"
+            "description": "Authelia is a Single Sign-On Multi-Factor portal for web apps",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ddns-updater.png",
             "name": "ddns-updater",
             "train": "stable",
-            "description": "Light container updating DNS A and/or AAAA records periodically for multiple DNS providers"
+            "description": "Light container updating DNS A and/or AAAA records periodically for multiple DNS providers",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png",
             "name": "external-service",
             "train": "stable",
-            "description": "Allow external services to be used like Apps."
+            "description": "Allow external services to be used like Apps.",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kavitaemail.png",
             "name": "kavitaemail",
             "train": "incubator",
-            "description": "Simple email relay server for kavita."
+            "description": "Simple email relay server for kavita.",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
             "name": "littlelink",
             "train": "stable",
-            "description": "Easy platform to combine all your social links"
+            "description": "Easy platform to combine all your social links",
+            "instances": 2
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/openldap.png",
             "name": "openldap",
             "train": "stable",
-            "description": "Community developed LDAP software"
+            "description": "Community developed LDAP software",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/phpldapadmin.png",
             "name": "phpldapadmin",
             "train": "stable",
-            "description": "Web-based LDAP browser to manage your LDAP server"
+            "description": "Web-based LDAP browser to manage your LDAP server",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png",
             "name": "pihole",
             "train": "stable",
-            "description": "DNS and Ad-filtering for your network"
+            "description": "DNS and Ad-filtering for your network",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png",
             "name": "scrutiny",
             "train": "stable",
-            "description": "Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution."
+            "description": "Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution.",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png",
             "name": "simply-shorten",
             "train": "stable",
-            "description": "A dead simple URL shortener."
+            "description": "A dead simple URL shortener.",
+            "instances": 2
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/theme-park.png",
             "name": "theme-park",
             "train": "stable",
-            "description": "Custom themes for your favorite apps!"
+            "description": "Custom themes for your favorite apps!",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traccar.png",
             "name": "traccar",
             "train": "stable",
-            "description": "Traccar is an open source GPS tracking system."
+            "description": "Traccar is an open source GPS tracking system.",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png",
             "name": "traefik",
             "train": "stable",
-            "description": "Traefik is a flexible reverse proxy and Ingress Provider."
+            "description": "Traefik is a flexible reverse proxy and Ingress Provider.",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webnut.png",
             "name": "webnut",
             "train": "stable",
-            "description": "webNUT (UPS network monitoring web ui)."
+            "description": "webNUT (UPS network monitoring web ui).",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png",
             "name": "wg-easy",
             "train": "stable",
-            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI."
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "instances": 1
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/whoogle.png",
             "name": "whoogle",
             "train": "stable",
-            "description": "A self-hosted, ad-free, privacy-respecting metasearch engine"
+            "description": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+            "instances": 1
         }
     ]
 }
