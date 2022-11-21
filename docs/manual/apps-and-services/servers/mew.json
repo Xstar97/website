@@ -1,7 +1,7 @@
 {
     "serverName": "Mew Scale Server",
     "serverDescription": "networking",
-    "count": 18,
+    "count": 19,
     "apps": [
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
@@ -92,6 +92,13 @@
             "name": "traefik",
             "train": "stable",
             "description": "Traefik is a flexible reverse proxy and Ingress Provider.",
+            "instances": 1
+        },
+        {
+            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/watchyourlan.png",
+            "name": "watchyourlan",
+            "train": "stable",
+            "description": "Lightweight network IP scanner with web GUI",
             "instances": 1
         },
         {
