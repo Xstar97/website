@@ -1,7 +1,7 @@
 {
     "serverName": "MewTwo Scale Server",
     "serverDescription": "Media and automations",
-    "count": 61,
+    "count": 59,
     "apps": [
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png",
@@ -43,7 +43,7 @@
             "name": "custom-app",
             "train": "stable",
             "description": "Advanced tool to create your own TrueCharts-based App",
-            "instances": 3
+            "instances": 2
         },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png",
@@ -246,13 +246,6 @@
             "name": "posterr",
             "train": "stable",
             "description": "Media display for Plex, Sonarr and Radarr.",
-            "instances": 1
-        },
-        {
-            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/postgresql.png",
-            "name": "postgresql",
-            "train": "dependency",
-            "description": "PostgresSQL",
             "instances": 1
         },
         {
