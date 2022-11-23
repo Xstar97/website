@@ -47,7 +47,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/budge.png" width="48" height="36" /> | **budge** | ✅ | Budge is an open source 'budgeting with envelopes' personal finance app. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" /> | **cloudflared** | ✅ | Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/code-server.png" width="48" height="36" /> | **code-server** | ✅ | Run VS Code on any machine anywhere and access it in the browser. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app<sup>x3</sup>** | ✅ | Advanced tool to create your own TrueCharts-based App |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app<sup>x2</sup>** | ✅ | Advanced tool to create your own TrueCharts-based App |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" /> | **docusaurus** | ✅ | Docusaurus makes it easy to maintain Open Source documentation websites. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" /> | **drawio** | ✅ | Drawio is free online diagram software. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" /> | **emulatorjs** | ✅ | Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles. |
@@ -77,7 +77,6 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex-meta-manager.png" width="48" height="36" /> | **plex-meta-manager** | ⚠️ | Python script to update metadata and automatically build collections. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plextraktsync.png" width="48" height="36" /> | **plextraktsync** | ⚠️ | Two-way-sync between trakt.tv and Plex Media Server. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/posterr.png" width="48" height="36" /> | **posterr** | ✅ | Media display for Plex, Sonarr and Radarr. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/postgresql.png" width="48" height="36" /> | **postgresql 🆕** | 🔨 | PostgresSQL |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ra-rom-processor.png" width="48" height="36" /> | **ra-rom-processor** | ⚠️ | Download / Orgainze / Process / Verify / Dedupe / Scrape a ROMs library automatically by matching ROMs to the RetroAchievement.org database. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
@@ -96,5 +95,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **61**
+ Installed Services Count: **59**
 ___
