@@ -1,7 +1,7 @@
 {
     "serverName": "MewTwo Scale Server",
     "serverDescription": "Media and automations",
-    "count": 58,
+    "count": 59,
     "apps": [
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png",
@@ -351,6 +351,13 @@
             "name": "uptime-kuma",
             "train": "stable",
             "description": "A fancy self-hosted monitoring tool",
+            "instances": 1
+        },
+        {
+            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/valheim.png",
+            "name": "valheim",
+            "train": "stable",
+            "description": "Valheim dedicated gameserver with automatic update and world backup support",
             "instances": 1
         },
         {
