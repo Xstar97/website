@@ -93,7 +93,8 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | ✅ | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/transmission.png" width="48" height="36" /> | **transmission** | ✅ | fast, easy, and free BitTorrent client. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/valheim.png" width="48" height="36" /> | **valheim 🆕** | ✅ | Valheim dedicated gameserver with automatic update and world backup support |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **58**
+ Installed Services Count: **59**
 ___
