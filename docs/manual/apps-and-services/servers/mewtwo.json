@@ -1,7 +1,7 @@
 {
     "serverName": "MewTwo Scale Server",
     "serverDescription": "Media and automations",
-    "count": 61,
+    "count": 58,
     "apps": [
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png",
@@ -15,13 +15,6 @@
             "name": "bazarr",
             "train": "stable",
             "description": "Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements",
-            "instances": 1
-        },
-        {
-            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/budge.png",
-            "name": "budge",
-            "train": "stable",
-            "description": "Budge is an open source 'budgeting with envelopes' personal finance app.",
             "instances": 1
         },
         {
@@ -134,13 +127,6 @@
             "name": "kavita",
             "train": "stable",
             "description": "Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats",
-            "instances": 1
-        },
-        {
-            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kodi-headless.png",
-            "name": "kodi-headless",
-            "train": "stable",
-            "description": "A headless install of kodi in a docker container.",
             "instances": 1
         },
         {
@@ -365,13 +351,6 @@
             "name": "uptime-kuma",
             "train": "stable",
             "description": "A fancy self-hosted monitoring tool",
-            "instances": 1
-        },
-        {
-            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/valheim.png",
-            "name": "valheim",
-            "train": "stable",
-            "description": "Valheim dedicated gameserver with automatic update and world backup support",
             "instances": 1
         },
         {
