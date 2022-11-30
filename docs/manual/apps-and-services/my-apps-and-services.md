@@ -43,6 +43,8 @@ ___
 
 |Icon|Chart|Train|Description|
 | :-------------: |:-------------: | :-------------:	| :-------------	|
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/aria2.png" width="48" height="36" /> | **aria2 🆕** | ✅ | aria server for downloading web content |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ariang.png" width="48" height="36" /> | **ariang 🆕** | ✅ | A modern web frontend making aria2 easier to use | Aria2 WebUI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" /> | **bazarr** | ✅ | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" /> | **cloudflared** | ✅ | Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/code-server.png" width="48" height="36" /> | **code-server** | ✅ | Run VS Code on any machine anywhere and access it in the browser. |
@@ -94,5 +96,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/valheim.png" width="48" height="36" /> | **valheim 🆕** | ✅ | Valheim dedicated gameserver with automatic update and world backup support |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **57**
+ Installed Services Count: **59**
 ___
