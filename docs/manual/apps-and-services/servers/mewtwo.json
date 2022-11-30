@@ -1,8 +1,22 @@
 {
     "serverName": "MewTwo Scale Server",
     "serverDescription": "Media and automations",
-    "count": 57,
+    "count": 59,
     "apps": [
+        {
+            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/aria2.png",
+            "name": "aria2",
+            "train": "stable",
+            "description": "aria server for downloading web content",
+            "instances": 1
+        },
+        {
+            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ariang.png",
+            "name": "ariang",
+            "train": "stable",
+            "description": "A modern web frontend making aria2 easier to use | Aria2 WebUI.",
+            "instances": 1
+        },
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png",
             "name": "bazarr",
