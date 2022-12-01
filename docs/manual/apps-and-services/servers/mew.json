@@ -1,7 +1,7 @@
 {
     "serverName": "Mew Scale Server",
     "serverDescription": "networking",
-    "count": 20,
+    "count": 19,
     "apps": [
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
@@ -22,13 +22,6 @@
             "name": "external-service",
             "train": "stable",
             "description": "Allow external services to be used like Apps.",
-            "instances": 1
-        },
-        {
-            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kavitaemail.png",
-            "name": "kavitaemail",
-            "train": "incubator",
-            "description": "Simple email relay server for kavita.",
             "instances": 1
         },
         {
