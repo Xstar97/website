@@ -1,7 +1,7 @@
 {
     "serverName": "MewTwo Scale Server",
     "serverDescription": "Media and automations",
-    "count": 62,
+    "count": 61,
     "apps": [
         {
             "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/aria2.png",
@@ -302,13 +302,6 @@
             "name": "ring-mqtt",
             "train": "stable",
             "description": "Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.",
-            "instances": 1
-        },
-        {
-            "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sabnzbd.png",
-            "name": "sabnzbd",
-            "train": "stable",
-            "description": "Free and easy binary newsreader",
             "instances": 1
         },
         {
