@@ -1889,6 +1889,7 @@
   "version" "5.1.2"
 
 "@types/node@*":
+  "integrity" "sha512-rLFzK5bhM0YPyCoTC8bolBjMk7bwnZ8qeZUBslBfjZQou2ssJdWslx9CZ8DGM+Dx7QXQiiTVZ/6QO6kwtHkZCA=="
   "version" "18.7.21"
 
 "@types/node@^17.0.5":
@@ -2679,6 +2680,7 @@
     "lodash.uniq" "^4.5.0"
 
 "caniuse-lite@^1.0.0", "caniuse-lite@^1.0.30001125", "caniuse-lite@^1.0.30001400", "caniuse-lite@^1.0.30001407":
+  "integrity" "sha512-+TeEIee1gS5bYOiuf+PS/kp2mrXic37Hl66VY6EAfxasIk5fELTktK2oOezYed12H8w7jt3s512PpulQidPjwA=="
   "version" "1.0.30001412"
 
 "ccount@^1.0.0", "ccount@^1.0.3":
@@ -3051,14 +3053,17 @@
     "serialize-javascript" "^6.0.0"
 
 "core-js-compat@^3.25.1":
+  "integrity" "sha512-xVtYpJQ5grszDHEUU9O7XbjjcZ0ccX3LgQsyqSvTnjX97ZqEgn9F5srmrwwwMtbKzDllyFPL+O+2OFMl1lU4TQ=="
   "version" "3.25.3"
   dependencies:
     "browserslist" "^4.21.4"
 
 "core-js-pure@^3.25.1":
+  "integrity" "sha512-T/7qvgv70MEvRkZ8p6BasLZmOVYKzOaWNBEHAU8FmveCJkl4nko2quqPQOmy6AJIp5MBanhz9no3A94NoRb0XA=="
   "version" "3.25.3"
 
 "core-js@^3.9.1":
+  "integrity" "sha512-y1hvKXmPHvm5B7w4ln1S4uc9eV/O5+iFExSRUimnvIph11uaizFR8LFMdONN8hG3P2pipUfX4Y/fR8rAEtcHcQ=="
   "version" "3.25.3"
 
 "core-util-is@~1.0.0":
@@ -3447,6 +3452,7 @@
     "debug" "^2.6.0"
 
 "detect-port@^1.3.0":
+  "integrity" "sha512-aBzdj76lueB6uUst5iAs7+0H/oOjqI5D16XUWxlWMIMROhcM0rfsNVk93zTngq1dDNpoXRr++Sus7ETAExppAQ=="
   "version" "1.5.1"
   dependencies:
     "address" "^1.0.1"
@@ -3568,6 +3574,7 @@
   "version" "1.1.1"
 
 "electron-to-chromium@^1.3.564", "electron-to-chromium@^1.4.251":
+  "integrity" "sha512-Ckn5haqmGh/xS8IbcgK3dnwAVnhDyo/WQnklWn6yaMucYTq7NNxwlGE8ElzEOnonzRLzUCo2Ot3vUb2GYUF2Hw=="
   "version" "1.4.262"
 
 "emoji-regex@^7.0.1":
@@ -3630,6 +3637,7 @@
     "is-arrayish" "^0.2.1"
 
 "es-abstract@^1.17.2", "es-abstract@^1.19.0", "es-abstract@^1.19.1", "es-abstract@^1.19.2", "es-abstract@^1.19.5", "es-abstract@^1.20.1":
+  "integrity" "sha512-AyrnaKVpMzljIdwjzrj+LxGmj8ik2LckwXacHqrJJ/jxz6dDDBcZ7I7nlHM0FvEW8MfbWJwOd+yT2XzYW49Frw=="
   "version" "1.20.3"
   dependencies:
     "call-bind" "^1.0.2"
@@ -4898,6 +4906,7 @@
   "version" "2.0.5"
 
 "is-callable@^1.1.4", "is-callable@^1.2.6":
+  "integrity" "sha512-1BC0BVFhS/p0qtw6enp8e+8OD0UrK0oFLztSjNzhcKA3WDuJxxAPXzPuPtKkjEY9UUoEWlX/8fgKeu2S8i9JTA=="
   "version" "1.2.7"
 
 "is-ci@^2.0.0":
@@ -5222,6 +5231,7 @@
     "supports-color" "^8.0.0"
 
 "joi@^17.3.0", "joi@^17.4.0":
+  "integrity" "sha512-Hl7/iBklIX345OCM1TiFSCZRVaAOLDGlWCp0Df2vWYgBgjkezaR7Kvm3joBciBHQjZj5sxXs859r6eqsRSlG8w=="
   "version" "17.6.1"
   dependencies:
     "@hapi/hoek" "^9.0.0"
@@ -7353,6 +7363,7 @@
   "version" "5.1.2"
 
 "safe-regex-test@^1.0.0":
+  "integrity" "sha512-JBUUzyOgEwXQY1NuPtvcj/qcBDbDmEvWufhlnXZIm75DEHp+afM1r1ujJpJsV/gSM4t59tpDyPi1sd6ZaPFfsA=="
   "version" "1.0.0"
   dependencies:
     "call-bind" "^1.0.2"
