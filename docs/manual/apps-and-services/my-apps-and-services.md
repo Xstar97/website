@@ -42,8 +42,8 @@ ___
 
 |Icon|Chart|Train|Description|
 | :-------------: |:-------------: | :-------------:	| :-------------	|
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/aria2.png" width="48" height="36" /> | **aria2 🆕** | ✅ | aria server for downloading web content |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ariang.png" width="48" height="36" /> | **ariang 🆕** | ✅ | A modern web frontend making aria2 easier to use | Aria2 WebUI. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/aria2.png" width="48" height="36" /> | **aria2** | ✅ | aria server for downloading web content |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ariang.png" width="48" height="36" /> | **ariang** | ✅ | A modern web frontend making aria2 easier to use | Aria2 WebUI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" /> | **bazarr** | ✅ | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" /> | **cloudflared** | ✅ | Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/code-server.png" width="48" height="36" /> | **code-server** | ✅ | Run VS Code on any machine anywhere and access it in the browser. |
@@ -88,7 +88,6 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/snipe-it.png" width="48" height="36" /> | **snipe-it** | ✅ | Open source asset management |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="48" height="36" /> | **sonarr** | ✅ | Smart PVR for newsgroup and bittorrent users |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/statping.png" width="48" height="36" /> | **statping 🆕** | ✅ | Status page for monitoring your websites and applications |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png" width="48" height="36" /> | **strapi** | ✅ | Strapi is the leading open-source headless CMS. JavaScript, fully customizable and developer-first. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/tautulli.png" width="48" height="36" /> | **tautulli** | ✅ | A Python based monitoring and tracking tool for Plex Media Server |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/tdarr.png" width="48" height="36" /> | **tdarr** | ✅ | Audio/Video library transcoding automation |
@@ -98,5 +97,5 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/valheim.png" width="48" height="36" /> | **valheim** | ✅ | Valheim dedicated gameserver with automatic update and world backup support |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | ✅ | Unofficial Bitwarden compatible server written in Rust |
 
- Installed Services Count: **62**
+ Installed Services Count: **61**
 ___
