@@ -5,7 +5,7 @@ sidebar_position: 3
 # Storage
 
 My go-to storage devices are samsung and seagate. I only ever use samsung SSDs(sata & NVME) and seagate Exos drives.
-Please checkout my price comparison for HDDs [here](/docs//manual/intro/hardware-recommendations#hdd-drive-comparison-price).
+Please checkout my price comparison for HDDs [here](/docs/manual/intro/hardware-recommendations#hdd-drive-comparison-price).
 
 ## Pools
 
