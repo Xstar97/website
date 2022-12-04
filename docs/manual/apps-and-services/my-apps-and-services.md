@@ -48,7 +48,7 @@ ___
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" width="48" height="36" /> | **cloudflared** | ✅ | Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/code-server.png" width="48" height="36" /> | **code-server** | ✅ | Run VS Code on any machine anywhere and access it in the browser. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app<sup>x2</sup>** | ✅ | Advanced tool to create your own TrueCharts-based App |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/discordgsm.png" width="48" height="36" /> | **discordgsm 🆕** | ⚠️ | A discord bot that monitors your game server and tracks the live data of your game servers. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/discordgsm.png" width="48" height="36" /> | **discordgsm** | ⚠️ | A discord bot that monitors your game server and tracks the live data of your game servers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/docusaurus.png" width="48" height="36" /> | **docusaurus** | ✅ | Docusaurus makes it easy to maintain Open Source documentation websites. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png" width="48" height="36" /> | **drawio** | ✅ | Drawio is free online diagram software. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" /> | **emulatorjs** | ✅ | Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles. |
